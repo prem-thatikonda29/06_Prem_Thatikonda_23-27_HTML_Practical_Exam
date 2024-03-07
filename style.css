@@ -22,7 +22,7 @@ nav{
 
 .logo h1{
     font-size: 3em;
-    margin-left: 10px;
+    margin-left: 15px;
     color: rgb(125, 206, 4);
 }
 
@@ -51,6 +51,11 @@ nav{
     align-items: center;
 }
 
+.fa-solid.fa-magnifying-glass.fa-2x{
+    border: 1px solid orange;
+    border-radius: 50%;
+    padding: 20px;
+}
 
 
 /* -------------MAIN SECTION - 1 --------------- */
