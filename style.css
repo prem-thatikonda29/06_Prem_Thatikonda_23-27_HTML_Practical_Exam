@@ -109,6 +109,13 @@ nav{
     height: 500px;
     border: 1px solid orange;
     border-radius: 25px;
+    transition: .3s ease-in-out;
+}
+
+.cards-1 .card:hover{
+    scale: 1.1;
+    transition: .3s ease-in-out;
+    cursor: pointer;
 }
 
 .cards-1 .card .image{
