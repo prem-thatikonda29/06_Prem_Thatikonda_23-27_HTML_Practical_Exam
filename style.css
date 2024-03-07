@@ -192,6 +192,7 @@ nav{
     height: 250px;
     border: 1px solid #444;
     display: flex;
+    border-radius: 30px;
 }
 
 .indi-card .info{
